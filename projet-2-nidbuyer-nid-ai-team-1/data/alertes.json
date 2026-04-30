@@ -1,0 +1,107 @@
+[
+  {
+    "email": "string",
+    "profil": {
+      "intention": "string",
+      "budget_max": 200000.0,
+      "surface_min": 20.0,
+      "quartiers": [],
+      "nb_pieces_min": 1,
+      "description_libre": ""
+    }
+  },
+  {
+    "email": "aurelie.rambout@gmail.com",
+    "profil": {
+      "intention": "rp",
+      "budget_max": 500000.0,
+      "surface_min": null,
+      "quartiers": [],
+      "nb_pieces_min": null,
+      "description_libre": "vue dégagée\nCritères complémentaires: type de bien: Maison"
+    }
+  },
+  {
+    "email": "aurelie.rambout@gmail.com",
+    "profil": {
+      "intention": "rp",
+      "budget_max": 500000.0,
+      "surface_min": null,
+      "quartiers": [],
+      "nb_pieces_min": null,
+      "description_libre": "vue dégagée"
+    }
+  },
+  {
+    "email": "aurelie.rambout@gmail.com",
+    "profil": {
+      "intention": "rs",
+      "budget_max": 500000.0,
+      "surface_min": 80.0,
+      "quartiers": [],
+      "nb_pieces_min": null,
+      "description_libre": "avec parking"
+    }
+  },
+  {
+    "email": "aurelie.rambout@gmail.com",
+    "profil": {
+      "intention": "rp",
+      "budget_max": 500000.0,
+      "surface_min": null,
+      "quartiers": [],
+      "nb_pieces_min": null,
+      "description_libre": "avec parking"
+    }
+  },
+  {
+    "email": "aurelie.rambout@gmail.com",
+    "profil": {
+      "intention": "rp",
+      "budget_max": 500000.0,
+      "surface_min": null,
+      "quartiers": [],
+      "nb_pieces_min": null,
+      "description_libre": "avec parking"
+    }
+  },
+  {
+    "email": "aurelie.rambout@gmail.com",
+    "profil": {
+      "intention": "rp",
+      "budget_max": 500000.0,
+      "surface_min": 70.0,
+      "quartiers": [],
+      "nb_pieces_min": null,
+      "description_libre": "avec parking"
+    }
+  },
+  {
+    "email": "aurelie.rambout@gmail.com",
+    "profil": {
+      "intention": "investissement",
+      "budget_max": 500000.0,
+      "surface_min": 20.0,
+      "quartiers": [
+        "Toulon - Porte d'Italie"
+      ],
+      "nb_pieces_min": 1,
+      "description_libre": "avec parking",
+      "ville": "Toulon"
+    }
+  },
+  {
+    "email": "aurelie.rambout@gmail.com",
+    "profil": {
+      "intention": "investissement",
+      "budget_max": 500000.0,
+      "surface_min": 20.0,
+      "quartiers": [
+        "Toulon - Porte d'Italie"
+      ],
+      "nb_pieces_min": 1,
+      "description_libre": "avec parking",
+      "ville": "Toulon"
+    }
+  }
+]

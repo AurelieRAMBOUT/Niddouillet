@@ -1,0 +1,16 @@
+Voici les informations sur le bien immobilier :
+
+{fiche_structuree}
+
+Annonce originale :
+{description_annonce}
+
+Profil de l'acheteur : {profil}
+
+Génère une analyse structurée avec exactement ces 4 sections :
+1. **Opportunité** : le prix est-il attractif par rapport au marché du quartier ?
+2. **Points forts** : les 2-3 atouts principaux pour ce profil
+3. **Points d'attention** : les 1-2 risques ou limites à considérer
+4. **Recommandation** : achat, négociation (fourchette), ou à éviter — et pourquoi
+
+Sois direct et factuel. Utilise les données chiffrées fournies.
